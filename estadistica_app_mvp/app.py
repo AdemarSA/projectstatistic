@@ -288,10 +288,10 @@ with tab4:
               - Condición normal: **n·p̂ ≥ 10** y **n·(1−p̂) ≥ 10**.
             """)
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    # Ruta absoluta del script principal
-    script_path = os.path.abspath(__file__)
+#     # Ruta absoluta del script principal
+#     script_path = os.path.abspath(__file__)
 
-    # Ejecuta Streamlit directamente
-    subprocess.Popen([sys.executable, "-m", "streamlit", "run", script_path])
+#     # Ejecuta Streamlit directamente
+#     subprocess.Popen([sys.executable, "-m", "streamlit", "run", script_path])
